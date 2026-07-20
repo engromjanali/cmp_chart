@@ -1,0 +1,27 @@
+name: compare_radar_chart
+description: A customizable Flutter radar chart widget for comparing multiple data series across shared metrics.
+version: 0.0.1
+homepage: https://github.com/mdromjanali/compare_radar_chart
+repository: https://github.com/mdromjanali/compare_radar_chart
+issue_tracker: https://github.com/mdromjanali/compare_radar_chart/issues
+topics:
+  - flutter
+  - widget
+  - chart
+  - radar-chart
+  - comparison
+
+environment:
+  sdk: ">=3.8.0 <4.0.0"
+  flutter: ">=3.32.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
