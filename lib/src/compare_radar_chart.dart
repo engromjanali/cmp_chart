@@ -7,6 +7,10 @@ import 'package:compare_radar_chart/src/radar_chart_series.dart';
 import 'package:compare_radar_chart/src/radar_chart_style.dart';
 
 class CompareRadarChart extends StatelessWidget {
+
+
+  sldkfls
+  
   final List<RadarChartAxis> axes;
   final List<RadarChartSeries> series;
   final RadarChartStyle style;
